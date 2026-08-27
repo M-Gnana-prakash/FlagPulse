@@ -1,0 +1,4 @@
+# Copy to application-local.properties for local development.
+# This file is intentionally safe to commit; replace values only in your local copy.
+spring.datasource.username=your_database_username
+spring.datasource.password=your_database_password
